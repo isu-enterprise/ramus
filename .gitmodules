@@ -1,0 +1,3 @@
+[submodule "pack200"]
+	path = pack200
+	url = https://github.com/pack200/pack200.git
